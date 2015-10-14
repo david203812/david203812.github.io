@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[davidCha's Blog]]></title>
-  <link href="http://david203812.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Blogs | davidCha's Blog]]></title>
+  <link href="http://david203812.github.io/blog/categories/blogs/atom.xml" rel="self"/>
   <link href="http://david203812.github.io/"/>
   <updated>2015-10-14T16:23:20+08:00</updated>
   <id>http://david203812.github.io/</id>
